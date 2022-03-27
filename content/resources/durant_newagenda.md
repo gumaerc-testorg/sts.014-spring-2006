@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cf9b9eb6-fbc9-0db4-07fd-98020b603079
 resourcetype: Document
 title: A New Agenda for the Public Understanding of Science
 uid: 72ff7c52-7fa8-0ccc-ce34-93acef455c0b

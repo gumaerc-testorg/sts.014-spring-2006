@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cf9b9eb6-fbc9-0db4-07fd-98020b603079
 resourcetype: Document
 title: Why should we promote the public understanding of science?
 uid: 9a2dfa5e-9d69-b2c0-bd06-b38606827f1c
