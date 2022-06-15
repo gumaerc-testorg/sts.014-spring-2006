@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course textbook and the reading
+  assignments for each session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -43,7 +45,7 @@ Why Bother with Science Communication?
 {{< tdopen >}}
 Gregory. Chapter 1.  
   
-Thomas, G., and J. R. Durant. "Why should we promote the public understanding of science?" Scientific Literary Papers 1 (1987): 1-14. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/durant_promote))(Courtesy of Dr. G. P. Thomas. Used with permission.)
+Thomas, G., and J. R. Durant. "Why should we promote the public understanding of science?" Scientific Literary Papers 1 (1987): 1-14. ({{% resource_link 9a2dfa5e-9d69-b2c0-bd06-b38606827f1c "PDF" %}})(Courtesy of Dr. G. P. Thomas. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ How Do Scientists Communicate with Each Other?
 {{< tdopen >}}
 Medawar, Sir Peter. "Is the scientific paper a fraud?" _The Listener_ 70 (September 12, 1963): 377-378. ([PDF](http://maagar.openu.ac.il/opus/static/binaries/editor/bank66/medawar_paper_fraud_1.pdf))  
   
-Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." _Nature_ 171 (April 25, 1953): 737-738. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))  
+Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." _Nature_ 171 (April 25, 1953): 737-738. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))  
   
 Watson, J. D. _The Double Helix: A Personal Account of the Discovery of the Structure of DNA_. Riverside, NJ: Simon & Schuster, 2001. ISBN: 9780743216302.  
   
@@ -99,7 +101,7 @@ Class Visit to the MIT Museum
 Who's on the Receiving End of Popular Science?
 {{< tdclose >}}
 {{< tdopen >}}
-Durant, J. R. "A New Agenda for the Public Understanding of Science." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/durant_newagenda))  
+Durant, J. R. "A New Agenda for the Public Understanding of Science." ({{% resource_link 72ff7c52-7fa8-0ccc-ce34-93acef455c0b "PDF" %}})  
   
 Durant, J. R., et al. "The Public Understanding of Science." _Nature_ 340 (July 6, 1989): 11-14.  
   
