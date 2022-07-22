@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on what the course is about,
+  course aims, meeting times, requirements, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d4ccc28c-cc19-eac1-106a-35b789ba27e1
 ---
@@ -47,7 +51,7 @@ Additional readings are either available on-line or will be handed out in class 
 Grading
 -------
 
-All students taking this course will be asked to develop a significant practical project of their own in science communication; individual guidance will be provided. The final project counts for 40% of the final grade. The remaining 60% will be assessed on the basis of class participation, a take-home midterm exam, and mini-research projects and presentations. See course [calendar]({{< baseurl >}}/pages/calendar) for details.
+All students taking this course will be asked to develop a significant practical project of their own in science communication; individual guidance will be provided. The final project counts for 40% of the final grade. The remaining 60% will be assessed on the basis of class participation, a take-home midterm exam, and mini-research projects and presentations. See course {{% resource_link 85e2a2ad-6c79-3f73-22d1-094d89102753 "calendar" %}} for details.
 
 {{< tableopen >}}
 {{< theadopen >}}
