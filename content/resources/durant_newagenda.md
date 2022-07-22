@@ -7,6 +7,7 @@ file: /courses/sts-014-principles-and-practice-of-science-communication-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: A New Agenda for the Public Understanding of Science
 uid: 72ff7c52-7fa8-0ccc-ce34-93acef455c0b
 ---
 An Inaugural Lecture given by John Durant, Professor of Public Understanding of Science, on 28 November 1995 in the Clore Lecture Theatre, Huxley Building, Imperial College, London.
-

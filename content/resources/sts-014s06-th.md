@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: World map showing locations of avian flu cases.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Cases of H5N1 Avian Influenza (thumbnail)
 uid: 3f0f2287-d26c-1822-875b-fd05f5522d91
 ---
 A map of nations with confirmed cases H5N1 Avian Influenza (May 19, 2006), from the U.S. government's public information Web site PandemicFlu.gov. (Image courtesy of the U.S. Department of Health and Human Services.)
-
