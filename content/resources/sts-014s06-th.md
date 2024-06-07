@@ -4,6 +4,7 @@ description: A map of nations with confirmed cases H5N1 Avian Influenza (May 19,
   from the U.S. government's public information Web site PandemicFlu.gov. (Image courtesy
   of the U.S. Department of Health and Human Services.)
 file: /courses/sts-014-principles-and-practice-of-science-communication-spring-2006/3f0f2287d26c1822875bfd05f5522d91_sts-014s06-th.jpg
+file_size: 10443
 file_type: image/jpeg
 image_metadata:
   caption: A map of nations with confirmed cases H5N1 Avian Influenza (May 19, 2006),
