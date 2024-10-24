@@ -3,7 +3,7 @@ content_type: resource
 description: An Inaugural Lecture given by John Durant, Professor of Public Understanding
   of Science, on 28 November 1995 in the Clore Lecture Theatre, Huxley Building, Imperial
   College, London.
-file: /courses/sts-014-principles-and-practice-of-science-communication-spring-2006/72ff7c527fa80cccce3493acef455c0b_durant_newagenda.pdf
+file: /ol-ocw-studio-app/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/72ff7c527fa80cccce3493acef455c0b_durant_newagenda.pdf
 file_size: 371157
 file_type: application/pdf
 learning_resource_types:
