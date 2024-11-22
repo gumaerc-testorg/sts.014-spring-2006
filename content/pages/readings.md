@@ -41,7 +41,7 @@ Thomas, G., and J. R. Durant. "Why should we promote the public understanding of
 How Do Scientists Communicate with Each Other?
 {{< tdclose >}}{{< tdopen >}}
 
-Medawar, Sir Peter. "Is the scientific paper a fraud?" *The Listener* 70 (September 12, 1963): 377-378. ([PDF](http://maagar.openu.ac.il/opus/static/binaries/editor/bank66/medawar_paper_fraud_1.pdf))
+Medawar, Sir Peter. "Is the scientific paper a fraud?" *The Listener* 70 (September 12, 1963): 377-378. ([PDF](https://www.weizmann.ac.il/mcb/alon/sites/mcb.UriAlon/files/uploads/medawar.pdf))
 
 Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." *Nature* 171 (April 25, 1953): 737-738. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
 
