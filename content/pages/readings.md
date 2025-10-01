@@ -41,9 +41,9 @@ Thomas, G., and J. R. Durant. "Why should we promote the public understanding of
 How Do Scientists Communicate with Each Other?
 {{< tdclose >}}{{< tdopen >}}
 
-Medawar, Sir Peter. "Is the scientific paper a fraud?" *The Listener* 70 (September 12, 1963): 377-378. ([PDF](https://www.weizmann.ac.il/mcb/alon/sites/mcb.UriAlon/files/uploads/medawar.pdf))
+Medawar, Sir Peter. "Is the scientific paper a fraud?" *The Listener* 70 (September 12, 1963): 377-378. ({{% resource_link "e063bf4b-9445-4c0d-8b35-0bcf4d33fed9" "PDF" %}})
 
-Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." *Nature* 171 (April 25, 1953): 737-738. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." *Nature* 171 (April 25, 1953): 737-738. ({{% resource_link "f393101b-fced-4d11-9a44-b80be8fba63a" "PDF" %}})
 
 Watson, J. D. *The Double Helix: A Personal Account of the Discovery of the Structure of DNA*. Riverside, NJ: Simon & Schuster, 2001. ISBN: 9780743216302.
 
@@ -81,7 +81,7 @@ Durant, J. R. "A New Agenda for the Public Understanding of Science." ({{% resou
 
 Durant, J. R., et al. "The Public Understanding of Science." *Nature* 340 (July 6, 1989): 11-14.
 
-National Science Board. "[Science and Technology: Public Attitudes and Understanding](http://www.nsf.gov/statistics/seind04/c7/c7h.htm)." Chapter 7 in *Science and Engineering Indicators 2004*. Arlington, VA: National Science Foundation, 2004.
+National Science Board. "{{% resource_link "3c921bc6-6631-4a3e-a2ee-5475ea82ed68" "Science and Technology: Public Attitudes and Understanding" %}}." Chapter 7 in *Science and Engineering Indicators 2004*. Arlington, VA: National Science Foundation, 2004.
 
 Wynne, B. "Public Understanding of Science." In *Handbook of Science and Technology Studies*. Edited by S. Jasanoff, G. E. Markle, J. C. Petersen, and T. Pinch. Thousand Oaks, CA: Sage Publications, 1994. ISBN: 9780803940215.
 
@@ -193,11 +193,11 @@ Second MIT Museum Visit
 Case Study 2: The GM Food Debate in the UK, 1994-2004
 {{< tdclose >}}{{< tdopen >}}
 
-"[Report of UK National Consensus Conference on Plant Biotechnology](http://journals.sagepub.com/doi/abs/10.1088/0963-6625/4/2/006)." 1994.
+"{{% resource_link "f4b62800-9d10-4282-8c6c-5ab79b480eb5" "Report of UK National Consensus Conference on Plant Biotechnology" %}}." 1994.
 
-UK Parliamentary Office of Science and Technology. "The Great GM Food Debate: A Survey of Media Coverage in the First Half of 1999." Report 138, House of Commons, London, UK, May 2000. ([PDF](https://post.parliament.uk/research-briefings/post-report-11/))
+UK Parliamentary Office of Science and Technology. "The Great GM Food Debate: A Survey of Media Coverage in the First Half of 1999." Report 138, House of Commons, London, UK, May 2000. ({{% resource_link "e0379e67-f921-4ed4-8823-c1ebe8153d4e" "PDF" %}})
 
-[GM Nation](http://web.archive.org/web/20090212212418/http://srtp.org.uk/gmnat03.shtml): This Web site documents the UK national public debate about GM food and GM crops organized in 2003.
+{{% resource_link "9c0b96d8-3517-4223-9a0c-09284b972425" "GM Nation" %}}: This Web site documents the UK national public debate about GM food and GM crops organized in 2003.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -221,9 +221,9 @@ Wade, N. "Lowering Expectations at Science's Frontier." *New York Times*, Januar
 Case Study 4: The Debate over 'Intelligent Design'
 {{< tdclose >}}{{< tdopen >}}
 
-[Intelligent Design (Wikipedia entry)](http://en.wikipedia.org/wiki/Intelligent_Design)
+{{% resource_link "0fb9190c-03b7-4df2-b440-277fbd0b5123" "Intelligent Design (Wikipedia entry)" %}}
 
-[The Evolution Debate (New York Times coverage of Intelligent Design)](http://www.nytimes.com/pages/science/sciencespecial2/index.html)
+{{% resource_link "1fa9897e-e264-4bbc-b932-8dc3a6f950f0" "The Evolution Debate (New York Times coverage of Intelligent Design)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
